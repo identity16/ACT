@@ -1,4 +1,4 @@
-# [ACT](https://identity16.github.io/)
+# [ACT](https://identity16.github.io/ACT)
  ACT 수업(중앙대학교 공통교양)의 자유형식 과제를 하기 위해 만든 페이지입니다.
 
 ## 설명
